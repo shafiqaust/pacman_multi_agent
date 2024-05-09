@@ -1,0 +1,197 @@
+Testing ReflexAgent on testClassic
+Starting run 1/10 for ReflexAgent on testClassic
+Starting run 2/10 for ReflexAgent on testClassic
+Starting run 3/10 for ReflexAgent on testClassic
+Starting run 4/10 for ReflexAgent on testClassic
+Starting run 5/10 for ReflexAgent on testClassic
+Starting run 6/10 for ReflexAgent on testClassic
+Starting run 7/10 for ReflexAgent on testClassic
+Starting run 8/10 for ReflexAgent on testClassic
+Starting run 9/10 for ReflexAgent on testClassic
+Starting run 10/10 for ReflexAgent on testClassic
+Summary for ReflexAgent on testClassic:
+Avg Score: 563.20
+Win Rate: 1.00%
+Avg Time: 0.09s
+
+Testing ReflexAgent on smallClassic
+Starting run 1/10 for ReflexAgent on smallClassic
+Starting run 2/10 for ReflexAgent on smallClassic
+Starting run 3/10 for ReflexAgent on smallClassic
+Starting run 4/10 for ReflexAgent on smallClassic
+Starting run 5/10 for ReflexAgent on smallClassic
+Starting run 6/10 for ReflexAgent on smallClassic
+Starting run 7/10 for ReflexAgent on smallClassic
+Starting run 8/10 for ReflexAgent on smallClassic
+Starting run 9/10 for ReflexAgent on smallClassic
+Starting run 10/10 for ReflexAgent on smallClassic
+Summary for ReflexAgent on smallClassic:
+Avg Score: 537.00
+Win Rate: 0.50%
+Avg Time: 0.17s
+
+Testing ReflexAgent on mediumClassic
+Starting run 1/10 for ReflexAgent on mediumClassic
+Starting run 2/10 for ReflexAgent on mediumClassic
+Starting run 3/10 for ReflexAgent on mediumClassic
+Starting run 4/10 for ReflexAgent on mediumClassic
+Starting run 5/10 for ReflexAgent on mediumClassic
+Starting run 6/10 for ReflexAgent on mediumClassic
+Starting run 7/10 for ReflexAgent on mediumClassic
+Starting run 8/10 for ReflexAgent on mediumClassic
+Starting run 9/10 for ReflexAgent on mediumClassic
+Starting run 10/10 for ReflexAgent on mediumClassic
+Summary for ReflexAgent on mediumClassic:
+Avg Score: 1069.40
+Win Rate: 0.50%
+Avg Time: 0.39s
+
+Testing MinimaxAgent on testClassic
+Starting run 1/10 for MinimaxAgent on testClassic
+Starting run 2/10 for MinimaxAgent on testClassic
+Starting run 3/10 for MinimaxAgent on testClassic
+Starting run 4/10 for MinimaxAgent on testClassic
+Starting run 5/10 for MinimaxAgent on testClassic
+Starting run 6/10 for MinimaxAgent on testClassic
+Starting run 7/10 for MinimaxAgent on testClassic
+Starting run 8/10 for MinimaxAgent on testClassic
+Starting run 9/10 for MinimaxAgent on testClassic
+Starting run 10/10 for MinimaxAgent on testClassic
+Summary for MinimaxAgent on testClassic:
+Avg Score: 527.00
+Win Rate: 1.00%
+Avg Time: 0.31s
+
+Testing MinimaxAgent on smallClassic
+Starting run 1/10 for MinimaxAgent on smallClassic
+Starting run 2/10 for MinimaxAgent on smallClassic
+Starting run 3/10 for MinimaxAgent on smallClassic
+Starting run 4/10 for MinimaxAgent on smallClassic
+Starting run 5/10 for MinimaxAgent on smallClassic
+Starting run 6/10 for MinimaxAgent on smallClassic
+Starting run 7/10 for MinimaxAgent on smallClassic
+Starting run 8/10 for MinimaxAgent on smallClassic
+Starting run 9/10 for MinimaxAgent on smallClassic
+Starting run 10/10 for MinimaxAgent on smallClassic
+Summary for MinimaxAgent on smallClassic:
+Avg Score: -130.60
+Win Rate: 0.10%
+Avg Time: 1.78s
+
+Testing MinimaxAgent on mediumClassic
+Starting run 1/10 for MinimaxAgent on mediumClassic
+Starting run 2/10 for MinimaxAgent on mediumClassic
+Starting run 3/10 for MinimaxAgent on mediumClassic
+Starting run 4/10 for MinimaxAgent on mediumClassic
+Starting run 5/10 for MinimaxAgent on mediumClassic
+Starting run 6/10 for MinimaxAgent on mediumClassic
+Starting run 7/10 for MinimaxAgent on mediumClassic
+Starting run 8/10 for MinimaxAgent on mediumClassic
+Starting run 9/10 for MinimaxAgent on mediumClassic
+Starting run 10/10 for MinimaxAgent on mediumClassic
+Summary for MinimaxAgent on mediumClassic:
+Avg Score: -356.40
+Win Rate: 0.10%
+Avg Time: 6.93s
+
+Testing AlphaBetaAgent on testClassic
+Starting run 1/10 for AlphaBetaAgent on testClassic
+Starting run 2/10 for AlphaBetaAgent on testClassic
+Starting run 3/10 for AlphaBetaAgent on testClassic
+Starting run 4/10 for AlphaBetaAgent on testClassic
+Starting run 5/10 for AlphaBetaAgent on testClassic
+Starting run 6/10 for AlphaBetaAgent on testClassic
+Starting run 7/10 for AlphaBetaAgent on testClassic
+Starting run 8/10 for AlphaBetaAgent on testClassic
+Starting run 9/10 for AlphaBetaAgent on testClassic
+Starting run 10/10 for AlphaBetaAgent on testClassic
+Summary for AlphaBetaAgent on testClassic:
+Avg Score: 503.20
+Win Rate: 1.00%
+Avg Time: 0.35s
+
+Testing AlphaBetaAgent on smallClassic
+Starting run 1/10 for AlphaBetaAgent on smallClassic
+Starting run 2/10 for AlphaBetaAgent on smallClassic
+Starting run 3/10 for AlphaBetaAgent on smallClassic
+Starting run 4/10 for AlphaBetaAgent on smallClassic
+Starting run 5/10 for AlphaBetaAgent on smallClassic
+Starting run 6/10 for AlphaBetaAgent on smallClassic
+Starting run 7/10 for AlphaBetaAgent on smallClassic
+Starting run 8/10 for AlphaBetaAgent on smallClassic
+Starting run 9/10 for AlphaBetaAgent on smallClassic
+Starting run 10/10 for AlphaBetaAgent on smallClassic
+Summary for AlphaBetaAgent on smallClassic:
+Avg Score: -72.10
+Win Rate: 0.00%
+Avg Time: 1.16s
+
+Testing AlphaBetaAgent on mediumClassic
+Starting run 1/10 for AlphaBetaAgent on mediumClassic
+Starting run 2/10 for AlphaBetaAgent on mediumClassic
+Starting run 3/10 for AlphaBetaAgent on mediumClassic
+Starting run 4/10 for AlphaBetaAgent on mediumClassic
+Starting run 5/10 for AlphaBetaAgent on mediumClassic
+Starting run 6/10 for AlphaBetaAgent on mediumClassic
+Starting run 7/10 for AlphaBetaAgent on mediumClassic
+Starting run 8/10 for AlphaBetaAgent on mediumClassic
+Starting run 9/10 for AlphaBetaAgent on mediumClassic
+Starting run 10/10 for AlphaBetaAgent on mediumClassic
+Summary for AlphaBetaAgent on mediumClassic:
+Avg Score: -740.80
+Win Rate: 0.00%
+Avg Time: 8.61s
+
+Testing MonteCarloTreeSearchAgent on testClassic
+Starting run 1/10 for MonteCarloTreeSearchAgent on testClassic
+Starting run 2/10 for MonteCarloTreeSearchAgent on testClassic
+Starting run 3/10 for MonteCarloTreeSearchAgent on testClassic
+Starting run 4/10 for MonteCarloTreeSearchAgent on testClassic
+Starting run 5/10 for MonteCarloTreeSearchAgent on testClassic
+Starting run 6/10 for MonteCarloTreeSearchAgent on testClassic
+Starting run 7/10 for MonteCarloTreeSearchAgent on testClassic
+Starting run 8/10 for MonteCarloTreeSearchAgent on testClassic
+Starting run 9/10 for MonteCarloTreeSearchAgent on testClassic
+Starting run 10/10 for MonteCarloTreeSearchAgent on testClassic
+Summary for MonteCarloTreeSearchAgent on testClassic:
+Avg Score: 554.20
+Win Rate: 1.00%
+Avg Time: 1.44s
+
+Testing MonteCarloTreeSearchAgent on smallClassic
+Starting run 1/10 for MonteCarloTreeSearchAgent on smallClassic
+Starting run 2/10 for MonteCarloTreeSearchAgent on smallClassic
+Starting run 3/10 for MonteCarloTreeSearchAgent on smallClassic
+Starting run 4/10 for MonteCarloTreeSearchAgent on smallClassic
+Starting run 5/10 for MonteCarloTreeSearchAgent on smallClassic
+Starting run 6/10 for MonteCarloTreeSearchAgent on smallClassic
+Starting run 7/10 for MonteCarloTreeSearchAgent on smallClassic
+Starting run 8/10 for MonteCarloTreeSearchAgent on smallClassic
+Starting run 9/10 for MonteCarloTreeSearchAgent on smallClassic
+Starting run 10/10 for MonteCarloTreeSearchAgent on smallClassic
+Summary for MonteCarloTreeSearchAgent on smallClassic:
+Avg Score: 1187.70
+Win Rate: 1.00%
+Avg Time: 21.07s
+
+Testing MonteCarloTreeSearchAgent on mediumClassic
+Starting run 1/10 for MonteCarloTreeSearchAgent on mediumClassic
+Starting run 2/10 for MonteCarloTreeSearchAgent on mediumClassic
+Starting run 3/10 for MonteCarloTreeSearchAgent on mediumClassic
+Starting run 4/10 for MonteCarloTreeSearchAgent on mediumClassic
+Starting run 5/10 for MonteCarloTreeSearchAgent on mediumClassic
+Starting run 6/10 for MonteCarloTreeSearchAgent on mediumClassic
+Starting run 7/10 for MonteCarloTreeSearchAgent on mediumClassic
+Starting run 8/10 for MonteCarloTreeSearchAgent on mediumClassic
+Starting run 9/10 for MonteCarloTreeSearchAgent on mediumClassic
+Starting run 10/10 for MonteCarloTreeSearchAgent on mediumClassic
+Summary for MonteCarloTreeSearchAgent on mediumClassic:
+Avg Score: 655.30
+Win Rate: 0.50%
+Avg Time: 27.91s
+
+Overall performace across all runs and all layouts
+ReflexAgent: Avg Score = 723.20, Avg Win Rate = 0.67%, Avg Time = 0.22s
+MinimaxAgent: Avg Score = 13.33, Avg Win Rate = 0.40%, Avg Time = 3.01s
+AlphaBetaAgent: Avg Score = -103.23, Avg Win Rate = 0.33%, Avg Time = 3.37s
+MonteCarloTreeSearchAgent: Avg Score = 799.07, Avg Win Rate = 0.83%, Avg Time = 16.81s
